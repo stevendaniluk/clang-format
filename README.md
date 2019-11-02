@@ -1,2 +1,3 @@
 # clang-format
-Preferred C++ Linting Format
+
+C++ Clang format for my projects
